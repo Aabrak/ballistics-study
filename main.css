@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #202525;
+    overflow: hidden;
+}
+
+#can {
+    background-color: #303535;
+}
